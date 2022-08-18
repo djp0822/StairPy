@@ -1,2 +1,2 @@
 # StairPy
-StairPy Module
+This repository contains the StairPy module from Psaltos et al (2022) - Awaiting Pfizer approval for upload...
